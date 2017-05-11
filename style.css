@@ -1,0 +1,141 @@
+body {
+    background-color: #b8b8b8;
+    font-size: 13px;
+    line-height: 18px;
+    color: #333;
+}
+#content {
+    width: 800px;
+    padding: 20px 30px;
+    background-color: white;
+}
+h1 {
+    font-size: 26px;
+    line-height: 30px;
+    color: #333;
+    font-weight: normal;
+    margin: 20px 0 10px;
+}
+h2 {
+    font-size: 36px;
+    line-height: 46px;
+    color: #333;
+    font-weight: normal;
+    font-style: italic;
+    margin: 40px 0 20px;
+}
+.fixed {
+    position: fixed;
+    top: 20px;
+    right: 0px;
+    width: 200px;
+    padding: 20px;
+    font-style: italic;
+    background-color: #666;
+    color: white;
+}
+#puzzle {
+    background: url('./v2-watercolor.jpg') no-repeat;
+    width: 635px;
+    height: 476px;
+    position: relative;
+    border: 5px solid #333;
+    background-size: cover;
+    margin: auto
+}
+#img1 {
+    position: absolute;
+}
+#img2 {
+    position: absolute;
+    left: 124px;
+}
+#img3 {
+    position: absolute;
+    left: 212px;
+}
+#img4 {
+    position: absolute;
+    left: 388px;
+}
+
+#img5 {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+#img6 {
+    position: absolute;
+    left: 0;
+    top: 77px;
+}
+#img7 {
+    position: absolute;
+    left: 90px;
+    top: 112px;
+}
+#img8 {
+    position: absolute;
+    left: 246px;
+    top: 83px;
+}
+#img9 {
+    position: absolute;
+    left: 346px;
+    top: 124px;
+}
+#img10 {
+    position: absolute;
+    right: 0;
+   top: 84px;
+}
+#img11 {
+    position: absolute;
+    top: 239px;
+    left: 0;
+}
+#img12 {
+    position: absolute;
+    left: 125px;
+    top: 199px;
+}
+#img13 {
+    position: absolute;
+    left: 212px;
+    top: 234px;
+}
+#img14 {
+    position: absolute;
+    left: 379px;
+    top: 197px;
+}
+#img15 {
+    position: absolute;
+    right: 0;
+    top: 237px;
+}
+#img16 {
+    position: absolute;
+    top: 315px;
+    left: 0px;
+}
+#img17 {
+    position: absolute;
+    left: 90px;
+    top: 351px;
+}
+#img18 {
+    position: absolute;
+    left: 251px;
+    top: 325px;
+}
+#img19 {
+    position: absolute;
+    left: 339px;
+    top: 361px;
+}
+#img20 {
+    position: absolute;
+    right: 0;
+    top: 319px;
+}
